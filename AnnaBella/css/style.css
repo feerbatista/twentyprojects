@@ -1,0 +1,80 @@
+
+body{
+    background-image: url('../img/fundo.png');
+    font:16px Arial;
+  
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+.principal{
+    width: 900px;
+}
+
+.menu{
+    background: hsl(60, 14%, 74%);
+    padding: 20px;
+    text-align: center;
+}
+
+.capa{
+    background-image: url('../img/capa.png');
+    width: 900px;
+    height: 388px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+}
+a:hover{
+    color: #fff;
+}
+
+
+.conteudo{
+    background: #e8e8d9;
+    padding:10px;
+}
+
+.conteudo img{
+    border: 10px solid #c3c3ae;
+}
+
+#rodape{
+    text-align: center;
+}
+
+
+@media (max-width:800px){
+    .principal{
+        width: 100%;
+        
+      
+    }
+    .capa{
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .menu{
+        padding: 10px;
+       
+ 
+    }
+    .conteudo h1{
+        text-align: center;
+    }
+
+    #rodape{
+        text-align: center;
+    }
+
+    .conteudo img{
+        width: 90%;
+    }
+}

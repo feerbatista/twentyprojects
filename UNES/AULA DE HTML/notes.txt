@@ -1,0 +1,59 @@
+TAG !!
+
+strong - negrito
+em - itálico
+u - underline
+strike - errado
+br - pular linha
+
+MENUS 
+listas não ordernadas 
+
+<ul type="disc">
+    <li>Notebook</li>
+    <li>Roter</li>
+<ul>
+
+type = circle | square | disc
+
+lista ordernadas
+
+<ol type="1">
+    <li>Notebook</li>
+    <li>Roter</li>
+</ol>
+
+type = 1 | A | a | I | i
+
+
+LINKS
+
+<a href="http://www.google.com">Google</a>
+href - aonde você quer redirecionar
+
+IMAGENS
+
+<img src="img/imagem.png" alt="" width="100%" height="300">
+src - caminho da imagem.
+width - tamanho da imagem.
+height - tamanho da imagem
+
+TABELAS 
+<table border="1" width="100%" align="center">
+        <tr>
+            <th>DATA</th>
+        </tr>
+
+        <tr align="center">
+            <td>17 DE MARÇO</td>
+        </tr>
+</table>
+
+th - definimos o nome de cada campo
+tr e td - adicionamos as informações
+
+FORMULARIO
+
+<input type="submit" value="ENTRAR">
+type - submit | text | password | radio | checkbox.... 
+definimos o tipo que queremos.
