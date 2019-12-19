@@ -23,3 +23,9 @@
 > Projeto Formulário estilizado.
 > Você pode ver esse projeto na pasta -> formularioEstilizado
 ![projetoFormulario](https://user-images.githubusercontent.com/52210721/71018961-3b694180-20d8-11ea-9c08-0b367e8e51f3.png)
+
+### *Quinto Projeto*
+> Projeto um site fictício de notícias.
+> Você pode ver esse projeto na pasta -> cidadeNoticias
+![projeto5](https://user-images.githubusercontent.com/52210721/71139112-064e1380-21ec-11ea-8f58-d9f6feb3effc.png)
+**SEM RESPONSIVIDADE**
