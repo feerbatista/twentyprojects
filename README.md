@@ -29,3 +29,8 @@
 > Você pode ver esse projeto na pasta -> cidadeNoticias
 ![projeto5](https://user-images.githubusercontent.com/52210721/71139112-064e1380-21ec-11ea-8f58-d9f6feb3effc.png)
 **SEM RESPONSIVIDADE**
+
+### *Sexto Projeto*
+> Você pode ver esse projeto na pasta -> chaleHotel
+![projeto6](https://user-images.githubusercontent.com/52210721/71365683-8377e080-257e-11ea-9313-9cada7d64cec.png)
+**SEM RESPONSIVIDADE**
