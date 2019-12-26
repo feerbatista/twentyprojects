@@ -34,3 +34,9 @@
 > Você pode ver esse projeto na pasta -> chaleHotel
 ![projeto6](https://user-images.githubusercontent.com/52210721/71365683-8377e080-257e-11ea-9313-9cada7d64cec.png)
 **SEM RESPONSIVIDADE**
+
+
+### *Sétimo Projeto*
+> Você pode ver esse projeto na pasta -> parallax
+![parallax](https://user-images.githubusercontent.com/52210721/71487640-55530480-27fb-11ea-9343-a056787e7bdd.PNG)
+**SEM RESPONSIVIDADE**
