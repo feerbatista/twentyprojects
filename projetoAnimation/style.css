@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+
+.container{
+    background-color: #000; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+h2 span{
+    color: red;
+    margin-right: 15px;
+}
+
+h2{
+    color: #fff;
+    font-family: "PoetsenOne";
+    position: relative;
+    font-size: 4em;
+    font-weight: 900;
+    z-index: 1;
+    overflow: hidden;
+    
+}
+
+h2:before{
+    content: '';
+    position: absolute;
+    left: 120%;
+    width: 120%;
+    height: 100%;
+    background:linear-gradient(90deg,transparent 0%,#000 5%, #000 100%);
+    animation: animate 5.5s linear forwards;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+
+}
+
+@font-face{
+    font-family: "PoetsenOne";
+    src: url(PoetsenOne.ttf);
+}
+
+
+@keyframes animate{
+    0%{
+        left: 110%;
+    }
+    100%{
+        left: -20%;
+    }
+}

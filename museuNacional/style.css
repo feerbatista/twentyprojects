@@ -1,0 +1,130 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: #f4f2ec url(img/fundo.png) repeat-x;
+    font:12px;
+
+}
+
+#container{
+    width:100%;
+    margin: 0 auto;
+}
+
+#logo a {
+    width: 248px;
+    height: 21px;
+    text-indent: -9999px;
+    display: block;
+    margin: 0 auto;
+    background-image: url(img/logo.png);
+}
+
+header{
+    padding: 15px 0;
+    height: 55px;
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+
+#menu{
+    list-style: none;
+    display: flex;
+}
+
+#menu li{
+    margin-right: 10px;
+}
+
+#menu li a{
+    font-size: 1.2em;
+    color: #fff;
+    
+}
+
+#menu li a:hover{
+    color: rgb(219, 141, 23);
+}
+
+#principal{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+}
+
+#conteudo{
+    width: 710px;
+    margin-right: 15px;
+   
+}
+
+#postagens{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+
+
+aside{
+    flex-direction: column;
+    width: 350px;
+   
+}
+
+h2{
+    text-transform: uppercase;
+    color:#86521a;
+    padding-bottom: 3px;
+}
+
+
+section#visita{
+   
+    background:#cdc8b1;
+    padding:10px 27px 27px 27px;
+
+}
+
+#visita{
+    margin-top: 10px;
+
+}
+
+input{
+    display: flex;
+    flex-direction: column;
+    height: 20px;
+    background:#fff;
+    border:none;
+    font-size: 1em;
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+
+section#galeria{
+    
+    margin-top: 10px;
+    background:#dcdcdc;
+    padding:10px 27px 27px 27px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    
+}
+
+
+section#galeria a {
+
+    background:url(img/fundo-foto.png)no-repeat;
+    padding:20px;
+    margin:0 auto;
+}
